@@ -85,7 +85,7 @@ Teacher selects plan → Sends payment proof → Admin verifies → Subscription
 ---
 ## Screenshots
 
-![Statistics](statistics.png)
+![Statistics](stat.png)
 ![Students](students.png)
 
 ## Status
