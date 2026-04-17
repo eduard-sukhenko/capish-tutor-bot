@@ -83,6 +83,10 @@ Teacher selects plan → Sends payment proof → Admin verifies → Subscription
 | Language | Ukrainian + English | Primary market is Ukrainian tutors |
 
 ---
+## Screenshots
+
+![Statistics](statistics.png)
+![Students](students.png)
 
 ## Status
 
